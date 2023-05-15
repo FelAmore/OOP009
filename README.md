@@ -27,6 +27,7 @@ Done
 + A negative effect of a future design change in the Sales object could be compatibility issues and dependencies with other parts of the program, leading to errors and the need for additional modifications and troubleshooting.
 
 #### d. State the output after running this code.
+![Output](images/Output.png)
 
 #### e. Construct the method calcTotalSales(), in the SalesPerson class that calculates the total value of the sales for a specific SalesPerson object.
 Done
