@@ -23,6 +23,7 @@ Because the objects' attributes are declared private, so methods are necessary t
 #### c. (i) Construct unified modelling language (UML) diagrams to clearly show the relationship between the SalesPerson and Sales classes.
 
 #### c. (ii) Outline a negative effect that a future change in the design of the Sales object might have on this suite of programs.
+A negative effect of a future design change in the Sales object could be compatibility issues and dependencies with other parts of the program, leading to errors and the need for additional modifications and troubleshooting.
 
 #### d. State the output after running this code.
 
