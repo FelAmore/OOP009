@@ -15,7 +15,7 @@
 
 ### Number 2
 #### a. Complete the constructor public SalesPerson(String id), from the SalesPerson class.
-Done
++ Done
 
 #### b. Explain why accessor methods are necessary for the SalesPerson class.
 + Because the objects' attributes are declared private, so methods are necessary to access the class.
@@ -30,13 +30,13 @@ Done
 ![Output](images/Output.png)
 
 #### e. Construct the method calcTotalSales(), in the SalesPerson class that calculates the total value of the sales for a specific SalesPerson object.
-Done
++ Done
 
 #### f. By making use of any previously written methods, construct the method highest(), that returns the ID of the salesperson whose sales have the largest total value.
-Done
++ Done
 
 #### g. Construct the method addSales(Sales s, String id), in the Driver class, that will add a new Sales object s, to the salesperson with a specified ID.
-Done
++ Done
 
 #### h. Suggest changes that must be made to the SalesPerson class and/or the Sales class to allow these calculations to be made. 
 1. SalesPerson Class
